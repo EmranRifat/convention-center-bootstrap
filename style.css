@@ -1,0 +1,54 @@
+
+body{
+background-image: url(images/design1.jpg.jpg);
+
+}
+.carousel-item{
+Width:1440px;
+Height:650px;
+}
+.carousel-item h5{
+   font-size: 50px;
+    font-weight: 600;
+}
+
+.carousel-item button{
+    Width:140px;
+    Height:40px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    background-image: linear-gradient(rgba(255, 25, 217, 0.623),rgb(39, 42, 255));
+    color: white;
+    font-weight: 700;
+    }
+ 
+.card-body button{
+    border-radius: 10px;
+    border:none;
+    background-color: rgba(187, 140, 155, 0.61);
+    color:blue;
+    padding-left: 15px;
+    padding-right: 15px; 
+    font-weight: 600;   
+}
+.card-body p{
+    color: rgb(78, 61, 61);
+}
+
+footer{
+    text-align: center;
+    background-color:#0a1424;
+    color: white;
+    height: 300px;
+}
+
+.buy-now{
+    margin-bottom: 10px;
+    width: 120px;
+    border-radius: 8px;
+    height: 40px;
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    color: #FEEAE9;
+    border: none;
+}
